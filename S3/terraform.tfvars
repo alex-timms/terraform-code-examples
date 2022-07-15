@@ -1,6 +1,6 @@
 aws_region = "eu-west-1"
 
-profile = "alex-timms-bucket"
+profile = "alex-timms"
 
 servicename = "aws-s3"
 
